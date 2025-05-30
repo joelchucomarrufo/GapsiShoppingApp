@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "mx.com.liverpool.shoppingapp",
+    "sha256_cert_fingerprints": [
+      "77:24:D0:DC:A8:01:E2:72:BF:5B:B5:99:7E:4B:4E:D2:D1:78:51:91:AA:A8:38:FE:8B:7E:30:1C:76:5A:B6:13"
+    ]
+  }
+}]
